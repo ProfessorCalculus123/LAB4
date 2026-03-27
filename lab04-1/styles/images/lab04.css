@@ -60,6 +60,7 @@ td {
 }
 
 .right {
+    display: block;
     text-align: right;
 }
 
